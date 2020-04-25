@@ -1,0 +1,10 @@
+#main-header {
+  background:#EE2524;
+  border-top:10px solid #A61A19;
+  color:#fff;
+  padding:0px 0;
+}
+
+#main-header .logo {
+  font-weight: 700;
+}
